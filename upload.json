@@ -1,0 +1,11 @@
+{
+    "AWSEBDockerrunVersion": "1",
+    "Image": {
+        "Name": "benjaminhong/gammazon:proxy2"
+    },
+    "Ports": [
+        {
+            "ContainerPort": "4001"
+        }
+    ]
+}
